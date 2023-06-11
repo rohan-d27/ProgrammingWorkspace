@@ -1,0 +1,33 @@
+﻿@page
+@model EmployeeListViewModel
+@using DotNetMVCApplication.Models
+@using System.Collections.Generic
+
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<h1>Employees list</h1>
+<table class='table'>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Gender</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model.EmployeesList)
+        {
+            <tr>
+                <td>@employee.ID</td>
+                <td>@employee.FirstName</td>
+                <td>@employee.LastName</td>
+                <td>@employee.Gender</td>
+                <td>@employee.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>

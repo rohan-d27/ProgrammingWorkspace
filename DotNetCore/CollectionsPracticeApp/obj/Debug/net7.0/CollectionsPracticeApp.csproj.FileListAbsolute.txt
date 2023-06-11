@@ -1,0 +1,15 @@
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\bin\Debug\net7.0\CollectionsPracticeApp.exe
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\bin\Debug\net7.0\CollectionsPracticeApp.deps.json
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\bin\Debug\net7.0\CollectionsPracticeApp.runtimeconfig.json
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\bin\Debug\net7.0\CollectionsPracticeApp.dll
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\bin\Debug\net7.0\CollectionsPracticeApp.pdb
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.csproj.AssemblyReference.cache
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.AssemblyInfoInputs.cache
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.AssemblyInfo.cs
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.dll
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\refint\CollectionsPracticeApp.dll
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.pdb
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\CollectionsPracticeApp.genruntimeconfig.cache
+C:\Users\Dharurkar\Downloads\Rohan_Programming_Workspace\DotNetCore\CollectionsPracticeApp\obj\Debug\net7.0\ref\CollectionsPracticeApp.dll
