@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj": {}
+    "c:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj": {
+    "c:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj",
+        "projectUniqueName": "c:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj",
         "projectName": "CollectionsPracticeApp",
-        "projectPath": "C:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj",
+        "projectPath": "c:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\CollectionsPracticeApp.csproj",
         "packagesPath": "C:\\Users\\Dharurkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\obj\\",
+        "outputPath": "c:\\Users\\Dharurkar\\Downloads\\Rohan_Programming_Workspace\\DotNetCore\\CollectionsPracticeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dharurkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
