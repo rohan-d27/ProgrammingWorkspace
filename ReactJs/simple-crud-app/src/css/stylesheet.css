@@ -1,0 +1,9 @@
+css
+.card-container {
+  display: flex;
+  flex-direction: row;
+}
+ .card {
+  width: 18rem;
+  margin-right: 1rem;
+}
